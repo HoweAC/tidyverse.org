@@ -37,7 +37,13 @@ We highly recommend pairing R4DS with the [RStudio cheatsheets](https://www.rstu
   Rick Scavetta, hosted on datacamp. Covers the basics of ggplot2. Followed by [part 2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
   which covers more advanced topics.
  
-* [Exploratory data analysis in R: case study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study) by David Robinson, hosted on datacamp. This course brings ggplot2 and dplyr to action on a real dataset, also introducing broom for tidying model output and how to tidy up data to help you explore your dataset. 
+* [Exploratory data analysis in R: case study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study) by David Robinson, hosted on datacamp. This course brings ggplot2 and dplyr to action on a real dataset, also introducing broom for tidying model output and how to tidy up data to help you explore your dataset.
+
+* [Statistics with R](https://www.datacamp.com/tracks/statistics-with-r) by Mine Cetinkaya-Rundel, 
+  Andrew Bray, Ben Baumer, and Jo Hardin, hosted on DataCamp. This sequence of courses 
+  cover introductory exploratory data analysis, statistical inference, and modeling. 
+  Emphasis on concepts and real data sets. Hands on data analysis in R uses ggplot2, 
+  dplyr, and infer (a package designed to do statistical inference the tidy way).
 
 ## University courses
 
